@@ -1,2 +1,2 @@
-# SoloAdventures
-A collection of personal solo journey and adventures
+# Data-Science-Training
+A collection of data science training
